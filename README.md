@@ -1,7 +1,7 @@
-<img src="avatar.png" align="right" />
-# 👋 Hi there! I'm Wei Heng
+<img src="avatar.jpg" align="right" height="150"/>
+👋 Hi there! I'm Wei Heng
 
-I'm a passionate **data scientist** and **AI enthusiast** with a strong background in Applied AI & Analytics. I'm also the founder of [ProcoLink](https://www.procolink.com/), a consultancy agency dedicated to helping SMEs harness the power of artificial intelligence.
+> I'm a passionate **data scientist** and **AI enthusiast** with a strong background in Applied AI & Analytics. I'm also the founder of [ProcoLink](https://www.proco.link/), a consultancy agency dedicated to helping SMEs harness the power of artificial intelligence.
 
 ## 🚀 Skills
 
@@ -51,7 +51,6 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=confunius&layout=donut)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=confunius)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Projects
 
