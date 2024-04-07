@@ -66,14 +66,13 @@ Web Scraping:
 <a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" width="40" height="40"/></a> Beautiful Soup
 
 
-### Big Data:
-<a href="https://www.tableau.com/"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a> Hadoop
-<a href="https://www.tableau.com/"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a> Databricks
+Big Data:
+<a href="https://hadoop.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" height="40"/></a> Hadoop
+<a href="https://databricks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="40" height="40"/></a> Databricks
 
-
-### Web Scraping:
-<a href="https://www.tableau.com/"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a> Selenium
-<a href="https://www.tableau.com/"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a> Beautiful Soup
+Web Scraping:
+<a href="https://www.selenium.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40"/></a> Selenium
+<a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" width="40" height="40"/></a> Beautiful Soup
 
 
 ## 🌟 Projects
