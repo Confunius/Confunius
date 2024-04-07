@@ -21,7 +21,7 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 ### Data Analytics:
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
 <a href="https://www.tableau.com/"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a>
-<a href="https://databricks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="40" height="40"/></a> Databricks
+<a href="https://databricks.com/"><img src="https://w7.pngwing.com/pngs/496/62/png-transparent-databricks-logo-thumbnail-tech-companies.png" width="40" height="40"/></a> Databricks
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a> Python
 <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40"/></a> Jupyter
 <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="40" height="40"/></a> Pandas
