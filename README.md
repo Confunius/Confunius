@@ -1,3 +1,4 @@
+<img src="avatar.png" align="right" />
 # 👋 Hi there! I'm Wei Heng
 
 I'm a passionate **data scientist** and **AI enthusiast** with a strong background in Applied AI & Analytics. I'm also the founder of [ProcoLink](https://www.procolink.com/), a consultancy agency dedicated to helping SMEs harness the power of artificial intelligence.
@@ -47,6 +48,10 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 <a href="https://www.selenium.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40"/></a>
 <a href="https://beautiful-soup-4.readthedocs.io/en/latest/"><img src="https://miro.medium.com/v2/resize:fit:1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" width="100" height="40"/></a>
 <a href="https://requests.readthedocs.io/en/latest/"><img src="https://i.seadn.io/gae/lltE8dd_HgTcJkcNm-Anw_obi_IQw7eKCeqxVbYMtgjapyq3Y5dn2ULJr_GTpHBC9ziIi5s7_PxHgNzxuV-Vd8NguBmVSN9YtzrnBQ?auto=format&dpr=1&w=1000" width="30" height="40"/></a>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=confunius&layout=donut)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=confunius)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Projects
 
