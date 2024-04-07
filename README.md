@@ -18,7 +18,7 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 
 ## 🚀 Skills
 
-- Data Analytics: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+- Data Analytics: <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40">
 - Machine Learning
 - Web Development (Next.js, TypeScript)
 - Prompt Engineering
