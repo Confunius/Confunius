@@ -18,7 +18,7 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 
 ## 🚀 Skills
 
-Data Analytics:
+### Data Analytics:
 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
 <a href="https://www.tableau.com/"><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a>
 <a href="https://databricks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="40" height="40"/></a> Databricks
@@ -33,7 +33,7 @@ Data Analytics:
 <a href="https://docs.python.org/3/library/re.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a> Regex
 <a href="https://marketingplatform.google.com/about/analytics/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Google_Analytics_logo.png" width="40" height="40"/></a> Google Analytics
 
-Machine Learning:
+### Machine Learning:
 <a href="https://www.sas.com/en_sg/software/viya.html"><img src="https://i.pinimg.com/736x/73/96/b8/7396b8543078228985df506d122df2e7.jpg" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a> Scikit-learn
 <a href="https://www.nltk.org/"><img src="https://miro.medium.com/max/592/1*YM2HXc7xJ3GNOZyBmH5M6A.png" width="40" height="40"/></a> NLTK
@@ -42,7 +42,7 @@ Machine Learning:
 <a href="https://docs.python.org/3/library/pickle.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a> pickle
 <a href="https://github.com/wolfgarbe/SymSpell"><img src="https://raw.githubusercontent.com/wolfgarbe/SymSpell/master/SymSpell.png" width="40" height="40"/></a> SymSpell
 
-Web Development (Next.js, TypeScript)
+### Web Development
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40"/></a> HTML
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40"/></a> CSS
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40"/></a> JS
@@ -57,20 +57,11 @@ Web Development (Next.js, TypeScript)
 <a href="https://www.openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/></a> OpenAI
 <a href="https://www.elastic.co/elasticsearch/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Elastic_logo.svg" width="40" height="40"/></a> Elasticsearch
 
-Big Data:
+### Big Data:
 <a href="https://hadoop.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" height="40"/></a> Hadoop
 <a href="https://databricks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="40" height="40"/></a> Databricks
 
-Web Scraping:
-<a href="https://www.selenium.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40"/></a> Selenium
-<a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" width="40" height="40"/></a> Beautiful Soup
-
-
-Big Data:
-<a href="https://hadoop.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="40" height="40"/></a> Hadoop
-<a href="https://databricks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="40" height="40"/></a> Databricks
-
-Web Scraping:
+### Web Scraping:
 <a href="https://www.selenium.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40"/></a> Selenium
 <a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://www.crummy.com/software/BeautifulSoup/10.1.jpg" width="40" height="40"/></a> Beautiful Soup
 
