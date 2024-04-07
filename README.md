@@ -2,20 +2,6 @@
 
 I'm a passionate **data scientist** and **AI enthusiast** with a strong background in Applied AI & Analytics. I'm also the founder of [ProcoLink](https://www.procolink.com/), a consultancy agency dedicated to helping SMEs harness the power of artificial intelligence.
 
-## 🎓 Education
-
-- CSIT Nanyang Scholar
-- Diploma in Applied AI & Analytics, Nanyang Polytechnic
-
-## 💼 Experience
-
-- **Founder** at [ProcoLink](https://www.procolink.com/)
-  - Leading the strategic direction and driving scalable growth
-  - Pioneering cutting-edge conversational AI solutions for medium-sized E-commerce businesses
-- **Data Scientist Intern** at CSIT
-  - Crafting prompt engineering templates for specialized AI assistants
-  - Building intuitive web applications with Next.js and TypeScript, integrating powerful backend LLMs
-
 ## 🚀 Skills
 
 ### Data Analytics:
@@ -74,7 +60,3 @@ When I'm not immersed in the world of AI and data science, you can find me:
 - Playing the piano 🎶
 - Hitting the gym or going for a run 🏃‍♂️
 - Exploring the latest advancements in technology 📱
-
-## 📬 Let's Connect!
-
-I'm always excited to collaborate with like-minded professionals and discuss potential partnerships. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourprofile/) or email at weiheng@procolink.com.
