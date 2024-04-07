@@ -59,7 +59,7 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 
 ### Web Scraping:
 <a href="https://www.selenium.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="40" height="40"/></a>
-<a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://miro.medium.com/v2/resize:fit:1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" width="100" height="40"/></a>
+<a href="https://beautiful-soup-4.readthedocs.io/en/latest/"><img src="https://miro.medium.com/v2/resize:fit:1045/1*jN3vLj7R8m9BEpOJuMJT-w.png" width="100" height="40"/></a>
 <a href="https://requests.readthedocs.io/en/latest/"><img src="https://i.seadn.io/gae/lltE8dd_HgTcJkcNm-Anw_obi_IQw7eKCeqxVbYMtgjapyq3Y5dn2ULJr_GTpHBC9ziIi5s7_PxHgNzxuV-Vd8NguBmVSN9YtzrnBQ?auto=format&dpr=1&w=1000" width="30" height="40"/></a>
 
 ## 🌟 Projects
