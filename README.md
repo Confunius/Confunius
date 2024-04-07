@@ -30,7 +30,6 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="40" height="40"/></a> Seaborn
 <a href="https://plotly.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" width="40" height="40"/></a> Plotly
 <a href="https://docs.python.org/3/library/re.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a> Regex
-<a href="https://docs.python.org/3/library/re.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40"/></a> Regex
 <a href="https://marketingplatform.google.com/about/analytics/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Google_Analytics_logo.png" width="40" height="40"/></a> Google Analytics
 
 ### Machine Learning:
