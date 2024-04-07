@@ -31,7 +31,7 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.png" width="80" height="40"/></a>
 <a href="https://jinja.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.png" width="80" height="40"/></a>
-<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="40"/></a>
+<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="40"/></a>
 <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/></a>
 <a href="https://nextjs.org/"><img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" width="60" height="40"/></a>
 <a href="https://mantine.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS57rsMTp7tXoWGijtNnFsE3nWru0QFnEzex4uOBl76_Q&s" width="40" height="40"/></a>
