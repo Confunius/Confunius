@@ -18,7 +18,7 @@ I'm a passionate **data scientist** and **AI enthusiast** with a strong backgrou
 
 ## 🚀 Skills
 
-- Data Analytics: <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
+- Data Analytics: <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/></a>
 - Machine Learning
 - Web Development (Next.js, TypeScript)
 - Prompt Engineering
