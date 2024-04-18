@@ -50,7 +50,7 @@
 <a href="https://requests.readthedocs.io/en/latest/"><img src="https://i.seadn.io/gae/lltE8dd_HgTcJkcNm-Anw_obi_IQw7eKCeqxVbYMtgjapyq3Y5dn2ULJr_GTpHBC9ziIi5s7_PxHgNzxuV-Vd8NguBmVSN9YtzrnBQ?auto=format&dpr=1&w=1000" width="30" height="40"/></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pclk&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pclk&layout=donut&size_weight=0.5&count_weight=0.5&hide=html,css&langs_count=8)
 
 ## 🌟 Projects
 
