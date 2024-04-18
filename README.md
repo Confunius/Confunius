@@ -64,3 +64,6 @@ When I'm not immersed in the world of AI and data science, you can find me:
 - Playing the piano 🎶
 - Hitting the gym or going for a run 🏃‍♂️
 - Exploring the latest advancements in technology 📱
+
+
+BTW, my username is derived from ProcoLink, a startup my partners and I share 😁
